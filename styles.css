@@ -1,0 +1,40 @@
+body{
+    background-color: aqua
+    ;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    background-color: none;
+
+}
+input{
+    display: block;
+    height: 35px;
+    width: 300px;
+}
+.ok{
+    width: 300px;
+    background-color: green;
+}
+.ch,.ra{
+    display: inline;
+    height:auto;
+    width: auto;
+    
+    
+}
+p{
+    font-size: 15px;
+    color: black;
+    font-style: oblique;
+}
+.nn,h2,.abo,.rec,.mm{
+ display: inline;
+padding: 15px;
+color:black;
+text-decoration: underline;
+font-size: 15px;
+}

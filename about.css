@@ -1,0 +1,23 @@
+.abo{
+    scroll-behavior: smooth;
+    background-color: yellow;
+}
+h1,.bd{
+    display: inline;
+padding: 15px;
+color: black;
+}
+.cd{
+    color: black;
+    text-decoration: underline;
+    display: block;
+}
+p{
+    color: blue;
+    font-style: italic;
+    
+}
+.col{
+    background-color: black;
+}
+
